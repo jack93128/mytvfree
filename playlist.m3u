@@ -1,11 +1,18 @@
 #EXTINF:-1 group-title="8TV-MY",8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfGtsIYu1uip9vTc_CHAVfQ)/dm/3/x6qud17/s/live-4.m3u8
 
+#EXTINF:-1 group-title="8TV-MY",8TV-BACKUP
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfGtsIYu1uip9vTc_CHAVfQ)/dm/3/x6qud17/s/live-4.m3u8
+
 #EXTINF:-1 group-title="NTV7-MY",NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3I47N6wlODONLZmo-5Y-8)/dm/3/x6qp6ou/s/live-4.m3u8
 
-#EXTINF:-1 group-title="中央频道", CCTV-1
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
+#EXTINF:-1 group-title="中央频道综合", CCTV-1综合
+http://223.82.250.72/live/hdcctv01/1.m3u8
 
-#EXTINF:-1 group-title="翡翠台", 翡翠台
-http://pull.leshantangjt.com/live/b7993c881bd8cdtgdcba0b9e8.flv
+#EXTINF:-1 group-title="中央频道HD", CCTV-3 HD
+http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8
+
+#EXTINF:-1 group-title="中央频道", CCTV-4 HD
+http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
+
