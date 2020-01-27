@@ -7,12 +7,38 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfGtsIYu1uip9vTc_C
 #EXTINF:-1 group-title="NTV7-MY",NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3I47N6wlODONLZmo-5Y-8)/dm/3/x6qp6ou/s/live-4.m3u8
 
-#EXTINF:-1 group-title="中央频道综合", CCTV-1综合
-http://223.82.250.72/live/hdcctv01/1.m3u8
+#EXTINF:-1 group-title="中央频道", CCTV-5 HD
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8
 
-#EXTINF:-1 group-title="中央频道HD", CCTV-3 HD
-http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8
+#EXTINF:-1 group-title="SG", Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
-#EXTINF:-1 group-title="中央频道", CCTV-4 HD
-http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
+#EXTINF:-1 group-title="SG", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1 group-title="HK", 香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 group-title="HK", 凤凰香港
+http://223.82.250.72/live/fhhongkong/1.m3u8
+
+#EXTINF:-1 group-title="TW", 民视新闻台
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 group-title="TW", 三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+
+#EXTINF:-1 group-title="TW", TVBS news
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+
+#EXTINF:-1 group-title="TW", GOODTV2
+http://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1 group-title="TW", GOODTV5
+http://live.streamingfast.net/osmflivech5.m3u8
+
+#EXTINF:-1 group-title="TW", GOODTV卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+
+#EXTINF:-1 group-title="CN", 好莱坞电影
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
