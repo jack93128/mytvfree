@@ -1,11 +1,8 @@
 #EXTINF:-1 group-title="8TV-MY",8TV
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfGtsIYu1uip9vTc_CHAVfQ)/dm/3/x6qud17/s/live-4.m3u8
-
-#EXTINF:-1 group-title="8TV-MY",8TV-BACKUP
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfGtsIYu1uip9vTc_CHAVfQ)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeOCz0PE_iXhihm3KjO5Ags)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 group-title="NTV7-MY",NTV7
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3I47N6wlODONLZmo-5Y-8)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZvOn-hCsWt6h-D07Fmbf8c)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 group-title="中央频道", CCTV-5 HD
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
