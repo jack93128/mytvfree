@@ -7,6 +7,12 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZvOn-hCsWt6h-D07F
 #EXTINF:-1 group-title="MY", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CN",天映频道
+https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 group-title="MY",CinemaxHD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 group-title="CN", CCTV5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
