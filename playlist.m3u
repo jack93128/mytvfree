@@ -7,6 +7,9 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZvOn-hCsWt6h-D07F
 #EXTINF:-1 group-title="MY", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="MY", AEC
+http://zzlive.188518.xyz/aec123.m3u8?tm=1580562030&key=3x0iqYjJHknjUy0kCMAIdA
+
 #EXTINF:-1 group-title="CN",高清影视
 http://tx.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8
 
