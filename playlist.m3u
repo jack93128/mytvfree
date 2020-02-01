@@ -7,17 +7,20 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZvOn-hCsWt6h-D07F
 #EXTINF:-1 group-title="MY", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="CN",高清影视
+http://tx.hls.huya.com/huyalive/29359996-2689607744-11551777299548340224-2847687540-10057-A-0-1.m3u8
+
 #EXTINF:-1 group-title="CN",天映频道
 https://anevia115.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
-
-#EXTINF:-1 group-title="MY",CinemaxHD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 group-title="CN", CCTV5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
 #EXTINF:-1 group-title="CN", CCTV-5 HD
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
+
+#EXTINF:-1 group-title="CN", CCTV 6
+http://111.40.205.73/PLTV/88888888/224/3221225751/index.m3u8
 
 #EXTINF:-1 group-title="TW", BEST-TV 4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
