@@ -7,7 +7,11 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZvOn-hCsWt6h-D07F
 #EXTINF:-1 group-title="MY", Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MY", AEC
+#EXTINF:-1 group-title="US", Fox Sport
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+
+#EXTINF:-1 group-title="MY", AEC-HD
 http://zzlive.188518.xyz/aec123.m3u8?tm=1580562030&key=3x0iqYjJHknjUy0kCMAIdA
 
 #EXTINF:-1 group-title="CN",高清影视
