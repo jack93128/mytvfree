@@ -10,6 +10,8 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US", Fox Sport
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
+#EXTINF:-1 group-title="MY", Asport4
+http://abc.188918.xyz/live.php?id=assass4&t=1580625821&sign=e5a490a7d21c625a1604fe97f6e2335d
 
 #EXTINF:-1 group-title="MY", AEC-HD
 http://zzlive.188518.xyz/aec123.m3u8?tm=1580562030&key=3x0iqYjJHknjUy0kCMAIdA
