@@ -69,5 +69,34 @@ http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:-1 group-title="CN", 好莱坞电影
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group-title="CN", 肥龙过jiang
-http://58.222.51.18/vipts.tc.qq.com/ATUIAmZb3LTcxTC1CPNoHs1hPD7JNnqh3ospU9KH3TcU/uwMROfz2r5xggaQXGdGnCmdf57p45p1fCQ0z0x6kYkciuXnP/gL-UlWUkdtKQKzG_YeFm1BBaH8S2TozktmwEqrOSHXPrwznF5nWWMQPP1GsWhGZ_vt0hQFwm_YWE2EM7vZ9p6MUbs5_BTN0kyd4uA5Y3qZuZIeNh7MgWhdjV1L66YS4KCb3lo0zXVPRmh8JSjsRMTac08RtGa6RfrNfdDq3n4RU/b00331uu0ts.322014.ts.m3u8?ver=4
+#EXTINF:-1 group-title="CN", CCTV-1 综合
+P2p://lino.homeunix.com:6007/59fd09e2000d0343023b196a477c58c6.ts
+
+CCTV-2 财经,P2p://lino.homeunix.com:6007/5acb88760003a9b52c17c2d1626016c9.ts
+CCTV-3 综艺,P2p://lino.homeunix.com:6007/59fd112c000823dd025791324b44268b.ts
+CCTV-4 中文国际,P2p://lino.homeunix.com:6007/59fd110e000aa9ea02571cae6b244f21.ts
+cctv-4 h265,P2p://lino.homeunix.com:6007/5afa3ee3000cd34d4210dfec5abb6867.ts
+CCTV-5 体育,P2p://lino.homeunix.com:6007/59fd114e000782de025815e36e2e46ba.ts
+cctv-5 h265,P2p://lino.homeunix.com:6007/5b2274eb000343eddf24bc5f03c1619d.ts
+CCTV-5+ 体育赛事,P2p://lino.homeunix.com:6007/59fd0ed6000b1055024e720d617b57a7.ts
+CCTV-6 电影,P2p://lino.homeunix.com:6007/59fd0e3f000097ce024c218614df21c6.ts
+CCTV-7 军事农业,P2p://lino.homeunix.com:6007/5acb8a7600095ba92c1f944804097dc9.ts
+CCTV-8 电视剧,P2p://lino.homeunix.com:6007/59fd1093000c4a7502553ca305e012c2.ts
+CCTV-9 纪录,P2p://lino.homeunix.com:6007/59fd1067000d003a025490f21bc33bb5.ts
+CCTV-10 科教,P2p://lino.homeunix.com:6007/59fd1034000389c00253c74914c161cf.ts
+CCTV-11 戏曲,P2p://lino.homeunix.com:6007/5acb87d30003c3982c1546197ab825c8.ts
+CCTV-12 社会与法,P2p://lino.homeunix.com:6007/59fd1014000e00ab02534cf91c075707.ts
+CCTV-13 新闻,P2p://lino.homeunix.com:6007/59fd0ff30008c4570252cab91c8e2911.ts
+CCTV-14 少儿,P2p://lino.homeunix.com:6007/59fd5039000a36c9034ddc8756e25a82.ts
+CCTV-15 音乐,P2p://lino.homeunix.com:6007/59fd500b0009f2aa034d28c736265f91.ts
+CCTV 怀旧剧场,P2p://lino.homeunix.com:6007/59fd28b40000173b02b37a6e68ed171b.ts
+
+浙江卫视,http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
+
+CCTV-4K 超高清,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+
+CCTV-4 中文国际,http://39.135.34.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
+
+动物星球,http://192.154.103.75:8080//ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+
+东森洋片HD,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
