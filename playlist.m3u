@@ -4,6 +4,12 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSZ-F0LCYB2aZgZAkV
 #EXTINF:-1 group-title="MY",NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2KluJZ11Y1ZkuqqsQ6UAM)/dm/3/x6qp6ou/s/live-3.m3u8
 
+#EXTINF:-1 group-title="HK",FeiCui
+http://hdl0901.plures.net/onlive/6957540868cec17c2cbb04b45bc74fed.flv
+
+#EXTINF:-1 group-title="HK",J2
+http://hdl0901.plures.net/onlive/12b7215cdd70fec593b162d41a7783e3.flv
+
 #EXTINF:-1 group-title="CN",CCTV 4K
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
