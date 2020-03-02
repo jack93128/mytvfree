@@ -4,6 +4,64 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX9mSp2Pt9WNc4IgQJ
 #EXTINF:-1 group-title="MY",NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ1-6S8FRPPYxGDo6fgacuU)/dm/3/x6qp6ou/s/live-3.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国大陆", CCTV-1 综合 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国大陆", CCTV-2 财经 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国大陆", CCTV-3 综艺 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国大陆", CCTV-4 中文国际 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中国大陆", CCTV-4 中文国际美洲
+https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="中国大陆", CCTV-4 中文国际欧洲
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国大陆", CCTV-5 体育 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV5+.png" group-title="中国大陆", CCTV-5+ 体育赛事 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204503.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国大陆", CCTV-6 电影 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000203303.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV7.png" group-title="中国大陆", CCTV-7 国防军事 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000510003.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国大陆", CCTV-8 电视剧 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000203903.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国大陆", CCTV-9 纪录 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000499403.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国大陆", CCTV-10 科教 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000203503.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中国大陆", CCTV-11 戏曲 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204103.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国大陆", CCTV-12 社会与法 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000202603.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国大陆", CCTV-13 新闻 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中国大陆", CCTV-14 少儿 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204403.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中国大陆", CCTV-15 音乐 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000205003.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/CCTV17.png" group-title="中国大陆", CCTV-17 农业农村 高清
+http://119.167.204.72/tlivecloud-cdn.ysp.cctv.cn/2000204203.m3u8
+
+
 #EXTINF:-1 group-title="CN",CCTV 4K
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
@@ -506,80 +564,6 @@ http://live.streamingfast.net/osmflivech40.m3u8
 
 #EXTINF:-1 group-title="CN", 好莱坞电影
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 group-title="CN", CCTV-1 综合
-P2p://lino.homeunix.com:6007/59fd09e2000d0343023b196a477c58c6.ts
-
-#EXTINF:-1 group-title="CN", CCTV-2 财经
-P2p://lino.homeunix.com:6007/5acb88760003a9b52c17c2d1626016c9.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-3 综艺
-P2p://lino.homeunix.com:6007/59fd112c000823dd025791324b44268b.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-4 中文国际
-P2p://lino.homeunix.com:6007/59fd110e000aa9ea02571cae6b244f21.ts
-
-
-#EXTINF:-1 group-title="CN", cctv-4 h265
-P2p://lino.homeunix.com:6007/5afa3ee3000cd34d4210dfec5abb6867.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-5 体育
-P2p://lino.homeunix.com:6007/59fd114e000782de025815e36e2e46ba.ts
-
-
-#EXTINF:-1 group-title="CN", cctv-5 h265
-P2p://lino.homeunix.com:6007/5b2274eb000343eddf24bc5f03c1619d.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-5+ 体育赛事
-P2p://lino.homeunix.com:6007/59fd0ed6000b1055024e720d617b57a7.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-6 电影
-P2p://lino.homeunix.com:6007/59fd0e3f000097ce024c218614df21c6.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-7 军事农业
-P2p://lino.homeunix.com:6007/5acb8a7600095ba92c1f944804097dc9.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-8 电视剧
-P2p://lino.homeunix.com:6007/59fd1093000c4a7502553ca305e012c2.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-9 纪录
-P2p://lino.homeunix.com:6007/59fd1067000d003a025490f21bc33bb5.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-10 科教
-P2p://lino.homeunix.com:6007/59fd1034000389c00253c74914c161cf.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-11 戏曲
-P2p://lino.homeunix.com:6007/5acb87d30003c3982c1546197ab825c8.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-12 社会与法
-P2p://lino.homeunix.com:6007/59fd1014000e00ab02534cf91c075707.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-13 新闻
-P2p://lino.homeunix.com:6007/59fd0ff30008c4570252cab91c8e2911.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-14 少儿
-P2p://lino.homeunix.com:6007/59fd5039000a36c9034ddc8756e25a82.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV-15 音乐
-P2p://lino.homeunix.com:6007/59fd500b0009f2aa034d28c736265f91.ts
-
-
-#EXTINF:-1 group-title="CN", CCTV 怀旧剧场
-P2p://lino.homeunix.com:6007/59fd28b40000173b02b37a6e68ed171b.ts
 
 #EXTINF:-1 group-title="CN", 浙江卫视
 http://39.135.34.146:18890/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=1106497909461218392&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRt6tuEx40ruFSJnrbh2BVWwXsEFuvV04XsE9ZOm50Z8cpDzo0JrXSxYrVj73IVRt9
